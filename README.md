@@ -30,3 +30,4 @@ Takes input as a list of comma seperated numbers and prints the sorted list
 
 . Reverses the first half of the string 
 
+Link to github repo -> [github repo](https://github.com/Haran71/A1.git)
